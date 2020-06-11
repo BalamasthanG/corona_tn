@@ -1,0 +1,10 @@
+html,
+body,
+.app {
+  background: #eee;
+  padding: 1em;
+}
+
+td, th{
+  text-align: center;
+}
